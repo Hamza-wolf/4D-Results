@@ -12,7 +12,7 @@ looking to how to check your Lesco Bill download Lesco-Bill or want to pay the b
 <body>
     <a rel="follow" title="Lesco Bill" target="_blank" href="http://lesco-bill.org.pk/">
         <img alt="' . $imageAlt . '" style="width: 15px;float: left;margin-right: 3px;" src="https://cdn-icons-png.flaticon.com/128/724/724816.png">
-        4D Result
+        Lesco Bill
     </a>
 </body>
 </html>
