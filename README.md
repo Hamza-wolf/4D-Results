@@ -1,12 +1,5 @@
 # Want to create an schedule page for for you website where you can have the post just like shown blow then your in click download the schedule.html and get the code 
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estimated Schedule</title>
     <style>
         /* Styling the Schedule Section */
         #schedule-container {
